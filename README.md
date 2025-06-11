@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on my Master's of Visual Computing at SFU
+- 🌱 I’m currently learning Vulkan and Zig
+- 🔥 C++, Python
+- 🛠️ Software Engineer
+
 <!--
 **abrykajlo/abrykajlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
